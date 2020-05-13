@@ -1,0 +1,6 @@
+### Authentication details
+export TF_VAR_tenancy_ocid="ocid1.tenancy.oc1..aaaaaaaagloazhvw3jnv6hdf3jufy5cd2hhr5uasykyqupxx3ev43huxc2ia"
+export TF_VAR_user_ocid="ocid1.user.oc1..aaaaaaaa3p65iatl3m7fco7v5qzf5vxuehrvz5ahnjyb46tm5uc3i7iy42fa"
+export TF_VAR_fingerprint="45:20:31:4b:a9:50:8f:d5:38:e5:34:71:a0:b5:f1:58"
+export TF_VAR_private_key_path="/root/.oci/idrsa.pem"
+
